@@ -23,5 +23,7 @@ public class CatHomePageEssentials_actions {
         catHomePageEssentials_elements.searchBox.sendKeys(strSearch);
     }
 
-
+public void pickLang(){
+        catHomePageEssentials_elements.pickLang.click();
+}
 }
