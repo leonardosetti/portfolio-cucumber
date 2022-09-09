@@ -2,7 +2,6 @@
 
 + Python
 + Selenium 
-+ Java
-+ JavaScript
 + Cucumber 
 + Vim
+
